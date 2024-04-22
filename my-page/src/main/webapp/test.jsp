@@ -27,10 +27,12 @@
 		
 	</style>
 	
-	<div><h1>iPhone 15 출시</h1></div>
-	<div><h1>층전포트를 USB-C 타입으로 바꿔달라고요?</h1></div>
-	<div><h1>그래서 충전포트를 제거했습니다.</h1></div>
+	<div><h1>갤럭시링 출시</h1></div>
+	<div><h1>심박수나 다양한 건강 및 수면체크 기능이 있습니다!</h1></div>
+	<div><h1>배터리도 오래갑니다!!</h1></div>
+	<div><h1>근데 그게 왜 필요한데?</h1></div>
 	<div><img src="img/sad.gif"></div>
+	<div><h6>아니</h6></div>
 	
 	<script>
 		
