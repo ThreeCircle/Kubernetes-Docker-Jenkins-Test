@@ -56,6 +56,8 @@
 		observer.observe(div[1])
 		observer.observe(div[2])
 		observer.observe(div[3])
+		observer.observe(div[4])
+		observer.observe(div[5])
 		
 	</script>
 	
