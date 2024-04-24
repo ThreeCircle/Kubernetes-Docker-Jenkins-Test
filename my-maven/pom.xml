@@ -15,6 +15,13 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <distributionManagement>
+    <repository>
+        <id>ThreeCircle</id>
+        <name>Kubernetes-Docker-Jenkins-Test</name>
+        <url>https://github.com/ThreeCircle/Kubernetes-Docker-Jenkins-Test</url>
+    </repository>
+</distributionManagement>
   <build>
     <finalName>my-maven</finalName>
   </build>
